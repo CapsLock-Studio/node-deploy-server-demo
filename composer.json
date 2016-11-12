@@ -1,0 +1,8 @@
+{
+    "name": "capslock-studio/node-deploy-server-demo",
+    "description": "DEMO for node-deploy-server",
+    "license": "MIT",
+    "require": {
+        "capslock-studio/node-deploy-server-php-pusher": "dev-master"
+    }
+}
