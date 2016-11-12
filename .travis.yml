@@ -1,6 +1,8 @@
 language: php
 php:
     - 7.0
+script:
+    - phpunit --version
 before_script:
     - composer install
 after_success:
